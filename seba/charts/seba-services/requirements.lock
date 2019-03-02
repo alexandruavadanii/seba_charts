@@ -4,7 +4,7 @@ dependencies:
   version: 1.0.8
 - name: onos-service
   repository: file://../../xos-services/onos-service
-  version: 2.0.7
+  version: 2.0.1
 - name: fabric
   repository: file://../../xos-services/fabric
   version: 2.1.6

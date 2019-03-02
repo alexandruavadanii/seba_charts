@@ -18,7 +18,7 @@ dependencies:
   version: 1.0.8
   repository: file://../../xos-services/rcord
 - name: onos-service
-  version: 2.0.7
+  version: 2.0.1
   repository: file://../../xos-services/onos-service
 - name: fabric
   version: 2.1.6
