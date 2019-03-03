@@ -78,7 +78,7 @@ images:
     pullPolicy: 'Always'
 
   envoy_for_etcd:
-    repository: 'cachengo/voltha-envoy'
+    repository: 'akrainoenea/voltha-envoy'
     tag: '{{ .Chart.AppVersion }}'
     pullPolicy: 'Always'
 
